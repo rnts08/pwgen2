@@ -6,9 +6,9 @@ Linux pwgen replacement based on p.assword.me (random passwords with curse-words
 ## Installation
 
 ```
-* git clone https://github.com/rnts08/pwgen2.git
-* cd pwgen2 
-* pip install -r requirements.txt
+git clone https://github.com/rnts08/pwgen2.git
+cd pwgen2 
+pip install -r requirements.txt
 ```
 
 ## Usage
