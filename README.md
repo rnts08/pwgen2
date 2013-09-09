@@ -16,3 +16,10 @@ pip install -r requirements.txt
 ```
 $ ./pwgen2.py -h 
 ```
+
+## Donate
+
+If you like this feel free to donate to (BTC): 
+1rntsUZrVkfbNNixDcVoaFwEKeAYff6jb
+
+And send some love to http://p.assword.me as well.
