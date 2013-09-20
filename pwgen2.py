@@ -7,7 +7,7 @@ import columnize
 
 def assword(length=12):
     try:
-        num = int(inp)
+        num = int(length)
         if num < 8 or num > 16:
             return "Number must be between 8 and 16"
         num = str(num)

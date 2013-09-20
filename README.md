@@ -19,7 +19,8 @@ $ ./pwgen2.py -h
 
 ## Donate
 
-If you like this feel free to donate to (BTC): 
-1rntsUZrVkfbNNixDcVoaFwEKeAYff6jb
+If you like this feel free to donate to; 
+BTC: 1rntsUZrVkfbNNixDcVoaFwEKeAYff6jb
+LTC: LWbNEKnRtqhq3bh2A6AjmeYZJmjk9HbPGi
 
 And send some love to http://p.assword.me as well.
